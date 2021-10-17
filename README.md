@@ -21,7 +21,7 @@ Inspired by Chrome's T-Rex Dinosaur
 3. Run the game in Python
 
    ```
-   python dragon_rush.py
+   python game.py
    ```
 
 
