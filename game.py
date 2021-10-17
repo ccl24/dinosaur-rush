@@ -1,5 +1,5 @@
 '''
-T-Rex Rush Game
+Dinosaur Rush Game
 
 '''
 import cfg
@@ -14,7 +14,7 @@ def main(highest_score):
     # Initialize the game
     pygame.init()
     screen = pygame.display.set_mode(cfg.SCREENSIZE)
-    pygame.display.set_caption('T-Rex Rush')
+    pygame.display.set_caption('Dinosaur Rush')
     # Import audio files
     sounds = {}
     for key, value in cfg.AUDIO_PATHS.items():
