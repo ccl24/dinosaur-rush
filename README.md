@@ -1,6 +1,6 @@
 # Dinosaur Rush
 
-Inspired by Chrome's T-Rex Dinosaur
+An imitation of the classic Chrome game - T-Rex Dinosaur
 
 ## How to Install
 
